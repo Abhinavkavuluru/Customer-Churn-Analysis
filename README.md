@@ -67,7 +67,3 @@ For any questions or support, please contact:
 EOF
 
 echo "README.md file created successfully."
-
-
-
-
