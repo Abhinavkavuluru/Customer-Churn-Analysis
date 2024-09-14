@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Create README.md file
+# Create README.md file for Customer Churn Prediction System
 cat <<EOF > README.md
 # Customer Churn Prediction System
 
