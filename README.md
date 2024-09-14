@@ -1,7 +1,6 @@
 
 
-# Create README.md file for Customer Churn Prediction System
-cat <<EOF > README.md
+
 # Customer Churn Prediction System
 
 ![Customer Churn](https://example.com/your-image.png)  <!-- Replace with a relevant image URL -->
@@ -66,4 +65,4 @@ For any questions or support, please contact:
 - **Abhinav Kavuluru**: [kavuluruabhinav.28@gmail.com](mailto:kavuluruabhinav.28@gmail.com)
 EOF
 
-echo "README.md file created successfully."
+
